@@ -1,3 +1,6 @@
+The Jupyter Notebooks in this directory are my work for Brandon Rhodes' 
+Pandas tutorial.  To build and play with the data yourself, follow the 
+instructions below.  Be careful about cloning and forking, though.  
 
 # Welcome to Brandon’s Pandas Tutorial
 
